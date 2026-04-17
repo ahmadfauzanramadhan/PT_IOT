@@ -15,3 +15,10 @@
 3. Pada Kodular terdapat 2 button mode otomatis dan manual, dengan ketentuan:
 - Otomatis: aktuator (servo dan buzzer) bekerja sesuai dengan syarat pada ketentuan nomor 1
 - Manual: aktuator (servo dan buzzer) dapat dikontrol secara manual pada kodular
+
+*Komponen Yang Digunakan:*
+- Servo
+- Water Censor
+- ESP32
+- Buzzer
+- Kabel Jumper
